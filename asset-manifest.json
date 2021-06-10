@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/viveksanti/Todo-App.git/static/css/main.9fb05026.chunk.css",
-    "main.js": "/viveksanti/Todo-App.git/static/js/main.43dbb2d6.chunk.js",
-    "main.js.map": "/viveksanti/Todo-App.git/static/js/main.43dbb2d6.chunk.js.map",
-    "runtime-main.js": "/viveksanti/Todo-App.git/static/js/runtime-main.7dce3f55.js",
-    "runtime-main.js.map": "/viveksanti/Todo-App.git/static/js/runtime-main.7dce3f55.js.map",
-    "static/js/2.a5a3761f.chunk.js": "/viveksanti/Todo-App.git/static/js/2.a5a3761f.chunk.js",
-    "static/js/2.a5a3761f.chunk.js.map": "/viveksanti/Todo-App.git/static/js/2.a5a3761f.chunk.js.map",
-    "index.html": "/viveksanti/Todo-App.git/index.html",
-    "static/css/main.9fb05026.chunk.css.map": "/viveksanti/Todo-App.git/static/css/main.9fb05026.chunk.css.map",
-    "static/js/2.a5a3761f.chunk.js.LICENSE.txt": "/viveksanti/Todo-App.git/static/js/2.a5a3761f.chunk.js.LICENSE.txt"
+    "main.css": "/Todo-App/static/css/main.9fb05026.chunk.css",
+    "main.js": "/Todo-App/static/js/main.43dbb2d6.chunk.js",
+    "main.js.map": "/Todo-App/static/js/main.43dbb2d6.chunk.js.map",
+    "runtime-main.js": "/Todo-App/static/js/runtime-main.9fb16743.js",
+    "runtime-main.js.map": "/Todo-App/static/js/runtime-main.9fb16743.js.map",
+    "static/js/2.a5a3761f.chunk.js": "/Todo-App/static/js/2.a5a3761f.chunk.js",
+    "static/js/2.a5a3761f.chunk.js.map": "/Todo-App/static/js/2.a5a3761f.chunk.js.map",
+    "index.html": "/Todo-App/index.html",
+    "static/css/main.9fb05026.chunk.css.map": "/Todo-App/static/css/main.9fb05026.chunk.css.map",
+    "static/js/2.a5a3761f.chunk.js.LICENSE.txt": "/Todo-App/static/js/2.a5a3761f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.7dce3f55.js",
+    "static/js/runtime-main.9fb16743.js",
     "static/js/2.a5a3761f.chunk.js",
     "static/css/main.9fb05026.chunk.css",
     "static/js/main.43dbb2d6.chunk.js"
